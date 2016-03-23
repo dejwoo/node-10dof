@@ -1,0 +1,11 @@
+{
+  "name": "node-10dof",
+  "version": "1.0.0",
+  "description": "Adafruit 10DOF node module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dejwoo",
+  "license": "ISC"
+}
